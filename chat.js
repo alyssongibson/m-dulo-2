@@ -12,20 +12,20 @@
 //     console.log("entrada não permitida")
 // }
 
-const input = require("readline-sync");
+// const input = require("readline-sync");
 
-console.log("Boa noite. consulte seu resultado digitando sua nota");
+// console.log("Boa noite. consulte seu resultado digitando sua nota");
 
-const nota = input.question("Qual foi sua nota?");
-if (nota >= 0 && nota <= 10) {
-  if (nota >= 6) {
-    console.log("Parabéns! aprovado");
-  } else if (nota < 6) {
-    console.log("Lamento, você foi reprovado");
-  }
-} else {
-  console.log(nota, "não é uma nota valida");
-}
+// const nota = input.question("Qual foi sua nota?");
+// if (nota >= 0 && nota <= 10) {
+//   if (nota >= 6) {
+//     console.log("Parabéns! aprovado");
+//   } else if (nota < 6) {
+//     console.log("Lamento, você foi reprovado");
+//   }
+// } else {
+//   console.log(nota, "não é uma nota valida");
+// }
 // const nome= "arthur";
 // console.log (nome)
 // const tipo= "personagem, urso";

@@ -27,6 +27,8 @@
 // console.log (temanho);
 // console.log (frase1);
 
+// Calculadora de média 5 notas
+
 
 // const nome = input.question("Digite o nome do aluno: ");
 // ver n1 = Nuber (input.question("digite nota 1: "));
@@ -44,3 +46,17 @@
 // } else{ 
 //     console.log( name + "sua média foi, " + média + " Você está aprovado")
 // }
+
+
+// const cpf = '683.427.214-34'
+// console.log(cpf.length)
+
+
+
+// const input = require("readline-sync");
+
+// const cpf = input.question('digite o seu cpf?');
+
+// console.log(cpf)
+
+
